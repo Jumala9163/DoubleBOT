@@ -1,0 +1,24 @@
+{
+    "name": "doublebot",
+    "version": "1.0.0",
+    "description": "分身の術！",
+    "license": "Apache-2.0",
+    "author": "Jumala9163 (https://github.com/jumala9163)",
+    "bugs": {
+        "url": "https://github.com/Jumala9163/DoubleBOT/issues"
+    },
+    "engines": {
+        "node": "^20.x.x"
+    },
+    "main": "app.js",
+    "scripts": {
+        "start": "node app.js"
+    },
+    "dependencies": {
+        "discord.js": "14.15.3"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Jumala9163/DoubleBOT.git"
+    }
+}
