@@ -1,6 +1,6 @@
 {
     "name": "doublebot",
-    "version": "1.0.1",
+    "version": "1.1.0",
     "description": "分身の術！",
     "license": "Apache-2.0",
     "author": "Jumala9163 (https://github.com/jumala9163)",
@@ -15,6 +15,7 @@
         "start": "node app.js"
     },
     "dependencies": {
+        "date-utils": "^1.2.21",
         "discord.js": "14.15.3"
     },
     "repository": {
