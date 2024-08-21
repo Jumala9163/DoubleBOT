@@ -16,6 +16,8 @@
 </br>
 ・discord.js `(14.15.3)`
 </br>
+・date-utils `(^1.2.21)`
+</br>
 </br>
 
 ## How to use
