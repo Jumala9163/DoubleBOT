@@ -39,6 +39,9 @@ git clone https://github.com/Jumala9163/DoubleBOT.git
 `config.json`の中身について
 
 ```json
+    "CHANGE_BOT_NICK" : true, // ターゲットユーザーのステータスに応じてBOTのニックネームを変更するか
+    "NOTIFY_TAGET_USER_STATUS_CHANGE" : true, // ターゲットユーザーのステータスが変更されたことを通知するか
+    "NOTIFY_TAGET_USER_STATUS_CHANGE_CHANNEL_ID" : "通知先のチャンネルID",
     "DISCORD_BOT_TOKEN" : "ボットのトークン", 
     "DISCORD_BOT_STATUS_MESSAGE" : "初期状態のボットのステータスメッセージ",
     "TARGET_GUILD_ID" : "指定したいユーザーが居るサーバーのID", 
